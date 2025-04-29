@@ -1,4 +1,5 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Notification Enabled,Sound Notification Enabled,Notification Is Repeatable,Delay Before Repeating,Subscribing Offset,Notification Sound
+ESM5.CME@TM.Pro,4600,AR,#000066,#1edaa2,left,TRUE,FALSE,,,,
 ESM5.CME@TM.Pro,5554,Elvis,#000066,#1edaa2,left,TRUE,FALSE,,,,
 ESM5.CME@TM.Pro,5552,Elvis,#1a0909,#1edaa2,left,TRUE,FALSE,,,,
 ESM5.CME@TM.Pro,6165,mHVN,#ffffff,#da611e,left,,,,,,
