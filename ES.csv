@@ -1,5 +1,7 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Notification Enabled,Sound Notification Enabled,Notification Is Repeatable,Delay Before Repeating,Subscribing Offset,Notification Sound
 ESU5.CME@RITHMIC,5950,mHVN,#ffffff,#da611e,left,,,,,,
+ESU5.CME@RITHMIC,6493,mHVN,#ffffff,#da611e,left,,,,,,
+ESU5.CME@RITHMIC,6491,mHVN,#ffffff,#da611e,left,,,,,,
 ESU5.CME@RITHMIC,6454,mHVN,#ffffff,#da611e,left,,,,,,
 ESU5.CME@RITHMIC,6424,mHVN,#ffffff,#da611e,left,,,,,,
 ESU5.CME@RITHMIC,6410,mHVN,#ffffff,#da611e,left,,,,,,
@@ -88,3 +90,4 @@ ESU5.CME@RITHMIC,5637.75,mHVN,#ffffff,#da611e,left,,,,,,
 ESU5.CME@RITHMIC,5644.25,mHVN,#ffffff,#da611e,left,,,,,,
 ESU5.CME@RITHMIC,5666.5,mHVN,#ffffff,#da611e,left,,,,,,
 ESU5.CME@RITHMIC,5684.25,mHVN,#ffffff,#da611e,left,,,,,,
+
