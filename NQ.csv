@@ -1,5 +1,9 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Notification Enabled,Sound Notification Enabled,Notification Is Repeatable,Delay Before Repeating,Subscribing Offset,Notification Sound
-NQM6.CME@RITHMIC,25877,90D POC,#ffffff,#fc0307,left,,,,,,
+NQM6.CME@RITHMIC,25033,90D POC,#ffffff,#fc0307,left,,,,,,
+NQM6.CME@RITHMIC,27887,mHVN,#ffffff,#da611e,left,,,,,,
+NQM6.CME@RITHMIC,27784,mHVN,#ffffff,#da611e,left,,,,,,
+NQM6.CME@RITHMIC,27600,mHVN,#ffffff,#da611e,left,,,,,,
+NQM6.CME@RITHMIC,27594,mHVN,#ffffff,#da611e,left,,,,,,
 NQM6.CME@RITHMIC,27572,mHVN,#ffffff,#da611e,left,,,,,,
 NQM6.CME@RITHMIC,27495,mHVN,#ffffff,#da611e,left,,,,,,
 NQM6.CME@RITHMIC,27485,mHVN,#ffffff,#da611e,left,,,,,,
